@@ -1,0 +1,7 @@
+@import 'open-props/normalize';
+@import 'open-props/buttons';
+
+body {
+  display: grid;
+  place-content: center;
+}
